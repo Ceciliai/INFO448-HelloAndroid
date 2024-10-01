@@ -1,0 +1,6 @@
+I chose USB Debugging as my research option. What this option does is allow Android devices to
+ communicate with development tools such as Android Studio via USB, 
+allowing developers to install apps, debug code, view logs, and more directly on the device. 
+Since I need to deploy applications to physical devices for testing in the course, USB debugging will be a feature I use frequently. 
+This allows me to see how the application is performing on the actual device and makes debugging and problem solving easier. 
+Therefore, I think I will use this feature a lot during this semester.
